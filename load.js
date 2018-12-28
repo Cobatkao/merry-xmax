@@ -14,7 +14,7 @@ document.querySelector('#btn').addEventListener('click', function() {
     font-family: 'Mountains of Christmas';
     position: fixed;
     z-index: 999;
-    font-size: 38px;
+    font-size: 22px;
     margin-top: 30px;
   }
 
